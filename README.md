@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maxsrobotics
 - 👀 I’m interested in electronics. coding, and weather balloons
 - 🌱 I’m currently learning C, C++, and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: maxsrobotics@gmail.com
 
 <!---
