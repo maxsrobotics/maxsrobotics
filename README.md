@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, C++, and Python
 - 📫 How to reach me: maxsrobotics@gmail.com
 
-Check out [https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK](url) for my latest and greates project!!
+Check out [https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK](url) for my latest and greatets project!!
 <!---
 maxsrobotics/maxsrobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
