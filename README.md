@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxsrobotics
+- 👋 Hi, I’m @maxsrobotics, a middle-school age developer
 - 👀 I’m interested in electronics. coding, and weather balloons
 - 🌱 I’m currently learning C, C++, and Python
 - 📫 How to reach me: maxsrobotics@gmail.com
